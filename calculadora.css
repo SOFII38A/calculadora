@@ -1,0 +1,22 @@
+*{
+    font-family: 'Josefin Sans';
+    
+
+}
+
+button{
+    width: 90px;
+    height: 30px;
+    border: none;
+    border-radius: 10%;
+    font-family: 'Josefin Sans';
+}
+.Calculadora{
+    background-color: #fff;
+    width: 700px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 7px 13px 37px rgba(0, 0, 0,.8);
+}
